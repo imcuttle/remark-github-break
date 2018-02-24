@@ -7,6 +7,8 @@
 
 https://gist.github.com/shaunlebron/746476e6e7a4d698b373
 
+The plugin of [remark](https://github.com/remarkjs/remark) to support the rule of github break line.
+
 - Input
 ```markdown
 remark default support[space][space]
