@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`index index case 1 1`] = `
+"<p>aaa<br>
+<em>b</em>bb<br>
+ccc
+ddd\\\\eee
+\\\\
+fff</p>
+"
+`;
